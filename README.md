@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-<img src="./demo1.png" width="400">
+<img src="./demo.png" width="400">
 </div>
 
 ## Features
